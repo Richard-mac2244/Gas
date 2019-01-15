@@ -3,6 +3,9 @@
  
 -  Will provide a list of gas stations and will let users know which station is most worth it.
 
+## Important:
+- Users must download project dependencies of React Native (node_modules, Xcode, etc.)
+
 ## Example: 
  
 - For example if station is further and has the cheapest gas but user will spend more money on gas to get there and back, then app will recommend other stations.
